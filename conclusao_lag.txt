@@ -1,0 +1,5 @@
+"A economia é o motor silencioso da Olist: identificamos que variações no Juro Real e na Selic antecipam tendências de consumo com uma janela de 6 meses. Para o nosso modelo preditivo, os dados macro de dois trimestres atrás são mais relevantes do que os dados do mês atual."
+
+Convergência da Inflação: Note como o IPCA Realizado (roxo) despenca e a Expectativa (tracejada azul) estabiliza por volta de 4%.
+
+O Insight de Ouro: "Vejam que entre os meses 10 e 20, temos o cenário perfeito para o e-commerce: os juros caem e a inflação sob controle aumenta o poder de compra. É exatamente aqui que o volume de dados da Olist deve apresentar seu maior crescimento.".

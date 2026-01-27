@@ -1,0 +1,14 @@
+def coletar_dados_macro_mensal():
+    """
+    Obtém indicadores macroeconômicos do Banco Central do Brasil (BCB).
+    
+    Processo:
+    1. Consome Selic e IPCA acumulado de 12m via API do SGS.
+    2. Consome expectativas de inflação de 12m via API do Focus.
+    3. Calcula a Taxa de Juros Real (Esperada e Efetiva) via Equação de Fisher.
+    4. Agrupa os dados por média mensal (Resample 'MS').
+    
+    Returns:
+        pd.DataFrame: Dados mensais com juros nominais, inflação e juro real.
+    """
+    # ... resto do código
